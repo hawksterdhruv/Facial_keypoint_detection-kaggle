@@ -1,0 +1,7 @@
+# Backup files generated
+*.pyc
+*.log
+*~
+*__init__.py
+*.idea
+*.bson
